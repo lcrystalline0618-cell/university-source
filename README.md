@@ -13,4 +13,4 @@
 * **🛠️ Toolbox** : 自动化脚本与效率工具
 
 ---
-*Created with Obsidain & VS Code. Powered by Curiosity.*
+  *Maintain the Initial Rigor to the Very End*
